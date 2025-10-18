@@ -1,4 +1,4 @@
--- Shiv X Admin Panel Script
+u-- Shiv X Admin Panel Script
 -- Galaxy Star Black Neon Theme
 -- Created for advanced admin controls
 
@@ -709,4 +709,3 @@ print("Shiv X Admin Panel loaded successfully!")
 print("Press Right Ctrl to toggle the admin panel")
 print("Script created by Shiv X - Galaxy Admin Panel")
 Response
-Created file /home/user/ShivX_AdminPanel.lua (27009 characters)
